@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋 My name is Vladislav
+## Java-developer
+Highly motivated and enthusiastic Junior Python-Developer with 4 plus years of experience in finance is seeking an opportunity to contribute in institutions by implementing knowledge and methodologies learnt.
+
+
 
 <!--
 **VPactually/VPactually** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
