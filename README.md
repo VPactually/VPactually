@@ -33,7 +33,7 @@ Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of exp
   </a>
 </p>
 
-### Badges
+### 📌 Languages
 
 <a href="https://github.com/lisa-gold" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpactually&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -41,7 +41,7 @@ Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of exp
 [![trophy](https://github-profile-trophy.vercel.app/?username=vpactually&theme=onedark&rank=-C,-?)](https://github.com/vpactually/github-profile-trophy)
 
 ### 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vpactually)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vpactually&theme=dark)](https://git.io/streak-stats)
 
 ## 🎓 Education
 
