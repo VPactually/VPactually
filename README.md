@@ -5,7 +5,7 @@ Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of exp
   - ✉️ You can contact me at [vpactually@gmail.com](vpactually@gmail.com) or [@SSawyer](https://t.me/SSawyer)
   - 🧠 I'm learning Java
 
-### Skills
+### 🛠️ Skills
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/VPactually/VPactually/blob/main/Icons/icons8-java%20(1).svg" width="48" height="48" alt="Java" /></a>
@@ -15,7 +15,7 @@ Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of exp
 <img src="https://github.com/VPactually/VPactually/blob/main/Icons/IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="InteliJ IDEA" /></a>
 </p>
 
-### Socials
+### 🌐 Socials
 <p align="left"> 
   <a href="https://github.com/VPactually" target="_blank" rel="noreferrer"> 
   <picture> 
@@ -37,7 +37,13 @@ Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of exp
 
 <a href="https://github.com/lisa-gold" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpactually&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Education
+### 🏆 GitHub trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vpactually&theme=onedark&rank=-C,-?)](https://github.com/vpactually/github-profile-trophy)
+
+### 🔥 Streak stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vpactually)](https://git.io/streak-stats)
+
+## 🎓 Education
 
 ### Bachelor
 - GSU, Faculty of Physics and Information Technologies
