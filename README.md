@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Vladislav
 ## Java-developer
-Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of experience in the construction industry, in the field of process automation and electrical engineering, is seeking an opportunity to contribute in institutions by implementing knowledge and methodologies learnt.
+Highly motivated and enthusiastic Junior Java-Developer with 4 plus years of experience in the construction industry, in the field of process automation and electrical engineering, is seeking an opportunity to contribute to a dynamic team where my skills in Java development, process automation, and electrical engineering can be leveraged to drive innovation and contribute to the success of projects.
   - 🌍 I'm based in Gomel, Belarus.
   - ✉️ You can contact me at [vpactually@gmail.com](vpactually@gmail.com) or [@SSawyer](https://t.me/SSawyer)
   - 🧠 I'm learning Java
