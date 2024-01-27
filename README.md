@@ -43,9 +43,6 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
 ### 🏆 GitHub trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vpactually&theme=onedark&rank=-C,-?)](https://github.com/vpactually/github-profile-trophy)
 
-### 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vpactually&theme=dark)](https://git.io/streak-stats)
-
 ## 🎓 Education
 
 ### Bachelor
