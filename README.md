@@ -40,9 +40,6 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
 
 <a href="https://github.com/lisa-gold" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpactually&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 🏆 GitHub trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vpactually&theme=onedark&rank=-C,-?)](https://github.com/vpactually/github-profile-trophy)
-
 ## 🎓 Education
 
 ### Bachelor
