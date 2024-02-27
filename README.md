@@ -24,6 +24,8 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
 <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/html-2752158-2284975.png?f=webp&w=256" width="48" height="48" alt="HTML" /></a>
 <a href="https://postgrespro.com/" target="_blank" rel="noregerrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"  width="48" height="48" alt="PostgreSQL"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rev="noregerrer">
+<img src="https://www.svgrepo.com/show/376350/spring.svg" width="48" height="48" alt="Spring Boot"/></a>
 </p>
 
 ### 🌐 Socials
