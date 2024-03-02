@@ -1,6 +1,6 @@
 ### Hi, My name is Vladislav
 ## Java-developer
-Highly motivated and enthusiastic Junior Java Developer with 4+ years' experience in Construction, in the field of Process Automation and Electrical Engineering.
+Highly motivated and enthusiastic Junior Java Developer with more than 4 years of experience in construction industry, in the field of Process Automation and Electrical Engineering.
 
 I am looking for an opportunity to contribute to a dynamic team where my skills in Java development, process automation and electrical engineering can be used to drive innovation and contribute to the success of projects.
 
