@@ -59,7 +59,7 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
 ## Relevant courses
 - Java-developer, Hexlet
 
-You may see my pet projects below
+You may see my pet projects below in pinned. 
 
 <!--
 **VPactually/VPactually** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
