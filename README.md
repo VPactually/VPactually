@@ -1,4 +1,4 @@
-### Hi, My name is Vladislav
+### Hi, My name is Vladislav.
 ## Java-developer
 Highly motivated and enthusiastic Junior Java Developer with more than 4 years of experience in construction industry, in the field of Process Automation and Electrical Engineering.
 
