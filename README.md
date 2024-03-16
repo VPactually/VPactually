@@ -9,16 +9,13 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
   - ✉️ You can contact me at [vpactually@gmail.com](vpactually@gmail.com) or [@SSawyer](https://t.me/SSawyer)
   - 🧠 I'm learning Java
 
-### 🛠️ Skills
+### 🧠 Skills
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/VPactually/VPactually/blob/main/Icons/icons8-java%20(1).svg" width="48" height="48" alt="Java" /></a>
 <a href="https://junit.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/VPactually/VPactually/blob/main/Icons/junit5-logo.png" width="48" height="48" alt="JUnit" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-<img src="https://github.com/VPactually/VPactually/blob/main/Icons/IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="InteliJ IDEA" /></a>
-<a href="https://ru.wikipedia.org/wiki/Linux" target="_blank" rel="noregerrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/101px-Tux.svg.png" width="48" height="48" alt="Linux" /></a>
+
 <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank" rel="noregerrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/120px-CSS3_logo.svg.png" width="48" height="48" alt="CSS"/></a>
 <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank" rel="noregerrer">
@@ -28,6 +25,18 @@ I am looking for an opportunity to contribute to a dynamic team where my skills 
 <a href="https://spring.io/projects/spring-boot" target="_blank" rev="noregerrer">
 <img src="https://www.svgrepo.com/show/376350/spring.svg" width="48" height="48" alt="Spring Boot"/></a>
 </p>
+
+### 🛠️ Instruments
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+<img src="https://github.com/VPactually/VPactually/blob/main/Icons/IntelliJ_IDEA_Icon.svg.png" width="48" height="48" alt="InteliJ IDEA" /></a>
+<a href="https://ru.wikipedia.org/wiki/Linux" target="_blank" rel="noregerrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/101px-Tux.svg.png" width="48" height="48" alt="Linux" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noregerrer">
+<img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="48" height="48" alt="Github Actions" /></a>
+<a href="https://render.com/" target="_blank" rel="noregerrer">
+<img src="https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=1718841600&v=beta&t=IYZdChbCcsnlyitwq4eSGgxgxUPFnEhTBtAJsjMzbns" width="48" height="48" alt="Render" /></a>
+
+
 
 ### 🌐 Socials
 <p align="left"> 
